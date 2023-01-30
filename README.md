@@ -1,2 +1,2 @@
 # differential-equations-book-2023-code
-Code for "Differential equations for studies in computational electrophysiology"
+Code for "Differential Equations for Studies in Computational Electrophysiology" by Karoline Horgmo Jæger and Aslak Tveito, a volume of Simula SpringerBriefs on Computing. 
